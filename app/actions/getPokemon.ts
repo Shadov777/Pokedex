@@ -41,3 +41,4 @@ export async function fetchPokemon({page = 1, search}: {page?:number; search?: s
 }
 
 
+
